@@ -1,7 +1,10 @@
 [package]
-name = "rust_threading"
+name = "audio"
 version = "0.1.0"
 edition = "2024"
 
+[lib]
+crate-type = ["dylib"]
+
 [dependencies]
-libloading = "0.8.6"
+
