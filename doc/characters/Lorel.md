@@ -3,6 +3,7 @@
 ## Character Traits
 Themed around a connection with royalty (real or imagined), arrogance, cleanliness. 
 Lorel may not be her real name. Potential delusions of grandeur. Enjoyed chess as a child. 
+Initially has no reason to accompany the party. Perhaps gets kicked out of her circles later on. 
 
 ## Combat
 Themed around:
