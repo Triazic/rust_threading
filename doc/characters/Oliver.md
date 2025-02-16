@@ -12,25 +12,27 @@ Abilities are speech-based similar to the Orator class of FFT.
 
 ## Abilities
 - Ponder (or overthink?): both Oliver and the target receive a Ponder token
+- Project: both Oliver and the target receive a Project token
 - Misery: both Oliver and the target receive a Misery token
 - Malaise: both Oliver and the target receive a Malaise token
 - Nostalgia: both Oliver and the target receive a Nostalgia token
 - Grief: both Oliver and the target receive a Grief token
 - Shame: both Oliver and the target receive a Shame token
 - Catastrophise: both Oliver and the target receive a Catastrophise token
-- We'll go together: both Oliver and the target receive a Bound token
-  Max uses: 1 
-and / or:
-- For You: the target receives a Protected token. Oliver receives a Bound token.
-  Max uses: 1 
-- Vent: all of Oliver's active negative tokens are removed from Oliver and applied to the target instead. 
-  Max uses: 1
-  ** Sometimes you just need to dump your issues ** 
-
-Other ideas: reflection
+- We'll go together: both Oliver and the target receive a Bound token  
+  Max uses: 1   
+and / or:  
+- For You: the target receives a Protected token. Oliver receives a Bound token.  
+  Max uses: 1   
+- Vent: all of Oliver's active negative tokens are removed from Oliver and applied to the target instead.   
+  Max uses: 1  
+  ** Sometimes you just need to dump your issues **   
+- There is Nothing: both Oliver and the target receive a Nihilist (or Atheist? idk) token.
 
 ## Tokens
 - Ponder: the bearer of this token takes twice as long (+100%) to execute charged / channeled abilities but they do 50% more damage when executed. If at half potency, only the time component is reduced to +50%.  
+- Project: when the bearer is affected by an ability which would inflict a negative token, the user of that ability receieves the negative token instead.    
+  ** It's you that is the problem **  
 - Misery: ?
 - Malaise: the bearer of this token has their speed reduced by 50% for two turns and their movement will be reduced by 2 (maybe also they have a 50% chance to be unable to act). Halving the potency will halve these values. 
 - Nostalgia: the bearer yearns for the past. On the bearer's turn, their health and active tokens will return to what they were on their previous turn and the Nostalgia token will be removed. * If used well, this can deny recently used healing and buffs on the target, 
@@ -43,6 +45,8 @@ The bearer cannot be healed by other units. If at half potency, positive tokens 
 - Bound: creates a bond between both units sharing this token. If either unit possessing this token dies, both units die. 
 or:
 - Protected / Bound: if the bearer of the Protected token dies, the bearer of the Bound token (Oliver) dies instead.
+- Nihilist / Atheist: the bearer cannot bring themselves to believe. Magical abilities of all kinds including healing and damage have no effect on the bearer,  
+and the bearer cannot use magical abilities of their own. 
 
 
 
