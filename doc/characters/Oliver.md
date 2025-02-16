@@ -2,7 +2,7 @@
 
 ### Character Traits
 High-functioning depression / malaise.  
-Gloomy theme but not necessarily dark / evil, positive intentions to others.  
+Gloomy theme but not dark / evil, positive intentions to others.  
 See eg. abilities Nostalgia, Reach Out, Cautious Optimism, For You. 
 
 ### Combat
