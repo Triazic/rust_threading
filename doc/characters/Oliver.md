@@ -1,11 +1,11 @@
-## Oliver
+# Oliver
 
-### Character Traits
+## Character Traits
 High-functioning depression / malaise.  
 Gloomy theme but not dark / evil, positive intentions to others.  
 See eg. abilities Nostalgia, Reach Out, Cautious Optimism, For You. 
 
-### Combat
+## Combat
 Themed around making the enemies depressed while marching through his own struggles.  
 Abilities are speech-based similar to the Orator class of FFT.   
 ** You merely adopted the darkness, I was born in it ** vibes  
