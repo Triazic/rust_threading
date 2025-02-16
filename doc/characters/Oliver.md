@@ -8,7 +8,8 @@ Themed around making the enemies depressed while marching through his own strugg
 Abilities are speech-based similar to the Orator class of FFT.   
 ** You merely adopted the darkness, I was born in it ** vibes  
 Oliver's abilities are based around applying debuffs to both enemies and himself.  
-He is used to being debuffed so they affect himself at half potency.  
+He is used to being debuffed so they affect himself at half potency.    
+Typical use would be applying mass debuffs to the enemy and himself during the start of the battle, and Venting them off of himself mid-battle. 
 
 ## Traits
 - High-functioning: negative tokens affect Oliver at half their usual potency
@@ -43,7 +44,7 @@ and / or:
 - Misery: ?
 - Malaise: the bearer of this token has their speed reduced by 50% for two turns and their movement will be reduced by 2 (maybe also they have a 50% chance to be unable to act). Halving the potency will halve these values. 
 - Nostalgia: the bearer yearns for the past. On the bearer's turn, their health and active tokens will return to what they were on their previous turn and the Nostalgia token will be removed. * If used well, this can deny recently used healing and buffs on the target, 
-and apply healing / buffs to Oliver * 
+and undo recent damage / debuffs to Oliver * 
 - Solastalgia: ? 
 - Grief: ?
 - Cautious Optimism: the bearer's Fortune is increased by 5 and healing received increased by 20% for five turns. If the bearer is affected by a Low Fortune event (below a 2 roll), the token is replaced by a Grief / Malaise token. 
