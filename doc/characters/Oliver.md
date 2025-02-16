@@ -58,7 +58,7 @@ The bearer cannot be healed by other units. If at half potency, positive tokens 
 - Bound: creates a bond between both units sharing this token. If either unit possessing this token dies, both units die. 
 or:
 - Protected / Bound: if the bearer of the Protected token dies, the bearer of the Bound token (Oliver) dies instead.
-- Nihilist / Atheist: the bearer cannot bring themselves to believe. Magical abilities of all kinds including healing and damage have no effect on the bearer,  
+- Nihilist / Atheist: the bearer cannot bring themselves to believe. Magical abilities of all kinds including healing and damage have no effect on the bearer,
 and the bearer cannot use magical abilities of their own. 
 
 
