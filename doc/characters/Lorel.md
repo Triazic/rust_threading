@@ -11,6 +11,7 @@ Themed around:
 - chess (Queen's Rush, King for a Day abilities) 
 
 Very low base movement (2). Queen's Rush can be used as a movement ability. 
+Lorel's class would be a good secondary class for a class also without good movement, as Queen's Rush can compensate.  
 
 ## Traits
 - Unsoiled: loses 5% HP if a unit (friendly or enemy) is next to her. If the target has the Kneeling or Servitude token, gain 10% health.  
@@ -18,7 +19,7 @@ Very low base movement (2). Queen's Rush can be used as a movement ability.
 - Rapiers and Bags ordinarily have a range of 1. When used by Lorel, they have a range of 2. 
 
 ## Abilities
-- Kneel. Physical attack, range 2. Hits at the targets legs. The target receives a Kneeling token. 
+- Kneel. Physical attack, using physical weapon range. Hits at the targets legs. The target receives a Kneeling token. 
 - Kiss the Ring, usable by enemies with the Kneeling token. Range 1. Only Lorel targetable. Replaces the Kneeling token with a Servitude token. Grants Lorel a Grandeur token.
 - Queen's Rush. Physical attack, range 5. Lorel moves and strikes either straight ahead, backwards, left, right, or diagonally.  
   If used on an empty tile, then Lorel will move to that tile as a free action.  
