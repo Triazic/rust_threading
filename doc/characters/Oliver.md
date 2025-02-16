@@ -1,7 +1,9 @@
 ## Oliver
 
 ### Character Traits
-High-functioning depression / malaise
+High-functioning depression / malaise.  
+Gloomy theme but not necessarily dark / evil, positive intentions to others.  
+See eg. abilities Nostalgia, Reach Out, Cautious Optimism, For You. 
 
 ### Combat
 Themed around making the enemies depressed while marching through his own struggles.  
