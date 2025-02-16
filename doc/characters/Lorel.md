@@ -18,6 +18,7 @@ Lorel's class would be a good secondary class for a class also without good move
 - Unsoiled: loses 5% HP if a unit (friendly or enemy) is next to her. If the target has the Kneeling or Servitude token, gain 10% health.  
 - Can only use Rapiers or Bags as weapons
 - Rapiers and Bags ordinarily have a range of 1. When used by Lorel, they have a range of 2. 
+- Stepping Stone. Can use other units (friendly or enemy) as platforms / stepping stones to reach higher places. 
 
 ## Abilities
 - Kneel. Physical attack, using physical weapon range. Hits at the targets legs. The target receives a Kneeling token. 
