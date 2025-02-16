@@ -48,7 +48,7 @@ and / or:
 - Nostalgia: the bearer yearns for the past. On the bearer's turn, their health and active tokens will return to what they were on their previous turn and the Nostalgia token will be removed. * If used well, this can deny recently used healing and buffs on the target, 
 and undo recent damage / debuffs to Oliver * 
 - Solastalgia: ? 
-- Grief: ?
+- Grief: ? Something themed around stages of grief. Triggered if nearby ally dies?
 - Cautious Optimism: the bearer's Fortune is increased by 5 and healing received increased by 20% for five turns. If the bearer is affected by a Low Fortune event (below a 2 roll), the token is replaced by a Grief / Malaise token. 
 - Shame: the bearer cannot accept help from others. Positive tokens cannot be applied to the bearer by other units. 
 The bearer cannot be healed by other units. If at half potency, positive tokens will be Weakened, and healing will be reduced by 50%. 
