@@ -4,8 +4,9 @@
 High-functioning depression / malaise
 
 ### Combat
-Themed around making the enemies depressed while pushing through his own struggles.  
-Abilities are speech-based similar to the Orator class of FFT. 
+Themed around making the enemies depressed while marching through his own struggles.  
+Abilities are speech-based similar to the Orator class of FFT.   
+** You merely adopted the darkness, I was born in it ** vibes
 
 ## Traits
 - High-functioning: negative tokens affect Oliver at half their usual potency
@@ -18,6 +19,7 @@ Abilities are speech-based similar to the Orator class of FFT.
 - Nostalgia: both Oliver and the target receive a Nostalgia token
 - Grief: both Oliver and the target receive a Grief token
 - Shame: both Oliver and the target receive a Shame token
+- Reach Out: Oliver receives a Reach Out token 
 - Catastrophise: both Oliver and the target receive a Catastrophise token
 - We'll go together: both Oliver and the target receive a Bound token  
   Max uses: 1   
@@ -40,6 +42,7 @@ and apply healing / buffs to Oliver *
 - Grief: ?
 - Shame: the bearer cannot accept help from others. Positive tokens cannot be applied to the bearer by other units. 
 The bearer cannot be healed by other units. If at half potency, positive tokens will be Weakened, and healing will be reduced by 50%. 
+- Reach Out: when targeted by a healing ability, the potency of the healing applied is doubled and the Reach Out token is replaced by a Shame token. 
 - Catastrophise: the bearer dreams of an impending calamity. If this token is not removed within three turns
 (six turns if at half potency), the calamity will transpire. The bearer will be hit by a meteor. The damage taken scales off of the bearer's intelligence.
 - Bound: creates a bond between both units sharing this token. If either unit possessing this token dies, both units die. 
