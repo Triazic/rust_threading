@@ -10,6 +10,8 @@ Themed around:
 - cleanliness, not wanting to be around plebs (Unsoiled passive)
 - chess (Queen's Rush, King for a Day abilities) 
 
+Very low base movement (2). Queen's Rush can be used as a movement ability. 
+
 ## Traits
 - Unsoiled: loses 5% HP if a unit (friendly or enemy) is next to her. If the target has the Kneeling or Servitude token, gain 10% health.  
 - Can only use Rapiers or Bags as weapons
@@ -18,7 +20,8 @@ Themed around:
 ## Abilities
 - Kneel. Physical attack, range 2. Hits at the targets legs. The target receives a Kneeling token. 
 - Kiss the Ring, usable by enemies with the Kneeling token. Range 1. Only Lorel targetable. Replaces the Kneeling token with a Servitude token. Grants Lorel a Grandeur token.
-- Queen's Rush. Physical attack, range 5. Lorel moves and strikes either straight ahead, backwards, left, right, or diagonally. 
+- Queen's Rush. Physical attack, range 5. Lorel moves and strikes either straight ahead, backwards, left, right, or diagonally.  
+  If used on an empty tile, then Lorel will move to that tile as a free action.  
 - King for a Day. Lorel receives a Kingly token. Free action, ends current turn.   
   Max Uses: 1
 - Checkmate (if Lorel has Kingly token). Range 1.  
